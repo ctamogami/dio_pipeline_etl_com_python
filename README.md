@@ -1,5 +1,9 @@
-##  Desafio da DIO: Explorando IA Generativa em um Pipeline de ETL com Python
+<div align="center">
+<img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" alt="Logo Bootcamp" width="100">
+<h1>Santander Bootcamp 2023 <br> Ciência de Dados com Python</h1>
+</div>
 
+## Desafio da DIO: Explorando IA Generativa em um Pipeline de ETL com Python
 ## Entendendo o desafio
 O aluno deveria replicar ou reimaginar uma pipeline ETL utilizando Python.
 
