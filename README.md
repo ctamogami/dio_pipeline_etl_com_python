@@ -3,19 +3,12 @@
 <h1>Santander Bootcamp 2023 <br> Ciência de Dados com Python</h1>
 </div>
 
-## Desafio da DIO: Processando e Transformando Dados com Power BI
+## Desafio da DIO: Explorando IA Generativa em um Pipeline de ETL com Python
 ## Entendendo o desafio
-O aluno deveria aplicar as etapas de coleta, obtenção e transformação de dados com Power BI e MySQL na Azure
+O aluno deveria replicar ou reimaginar uma pipeline ETL utilizando Python.
 
 ## Projeto criado 
-Para o desenvolvimento do projeto, foi criada uma instância no MySQL da Azure e formam inseridos os dados através do Cloud Shell. Apos a inserção dos dados, foi feita a integração com o Power BI.
-No Power BI, foram feitas as tranformações nos dados , contemplando o seguinte:
-- Verificação dos cabeçalhos e tipos de dados
-- Modificação dos valores monetários para o tipo double preciso
-- Verificação da existência dos nulos e analise a remoção
-- Verificação do número de horas dos projetos
-- Separação colunas complexas
-- Mescla de consultas para a criação de tabelas adequadas para a criação do painel (para a criação da planilha adequada, foi utilizado o processo de mescla de consultas, e não apenas o processo de acrescimo de consultas. A mescla utiliza uma coluna de referência em cada tabela para servir como referência na junção dos dados. Já o acréscimo, faz a simples junção das observações, colocando os dados nas colunas correspondentes das tabelas de referência)
-- Eliminação das colunas desnecessárias
-- Criação do relatório
+Criar um pipeline ETL para extrair dados de vendas de uma loja roupas de um arquivo XLSX (MS Excel), realizar as seguintes transformações:
+    • Calcular o valor total vendido por produto e calcular o valor vendido de cada produto por dia e exporarpara arquivos CSV; 
+    • Imaginando que a loja estava dando um valor de 5% de cashback em cada compra, calcular o valor de cashback e gerar uma mensagem para cada cliente. 
 
